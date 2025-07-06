@@ -1,0 +1,33 @@
+前端：
+-HTML、CSS、JS
+-React、Redux
+-TypeScript
+-响应式布局
+
+移动端：
+-React Native
+-小程序
+-Flutter
+
+后端：
+-NodeJS
+-Express
+-MongoDB或Redis
+-RESTful API
+
+客户端：
+-Qt
+-Electron
+
+操作系统：
+-Linux
+
+AI：
+-智能应用开发（RAG、MCP等）
+
+音视频：
+-音视频C++开发
+
+图像：
+-OpenGL
+
